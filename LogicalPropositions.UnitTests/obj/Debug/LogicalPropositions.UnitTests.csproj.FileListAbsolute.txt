@@ -1,0 +1,17 @@
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\obj\Debug\LogicalPropositions.UnitTests.csprojAssemblyReference.cache
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\obj\Debug\LogicalPropositions.UnitTests.csproj.CoreCompileInputs.cache
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\LogicalPropositions.UnitTests.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\LogicalPropositions.UnitTests.pdb
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\LogicalPropositions.exe
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\LogicalPropositions.pdb
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\LogicalPropositions.exe.config
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\obj\Debug\LogicalPropositions.UnitTests.csproj.CopyComplete
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\obj\Debug\LogicalPropositions.UnitTests.dll
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions.UnitTests\obj\Debug\LogicalPropositions.UnitTests.pdb

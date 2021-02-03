@@ -1,0 +1,10 @@
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.csprojAssemblyReference.cache
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.Form1.resources
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.Properties.Resources.resources
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.csproj.GenerateResource.cache
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.csproj.CoreCompileInputs.cache
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\bin\Debug\LogicalPropositions.exe.config
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\bin\Debug\LogicalPropositions.exe
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\bin\Debug\LogicalPropositions.pdb
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.exe
+D:\Fontys\ALE1\LogicalPropositions\LogicalPropositions\obj\Debug\LogicalPropositions.pdb
